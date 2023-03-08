@@ -1,5 +1,3 @@
 # amazon-project
-afdfbd
-rnorgs vs
-vsfvaaweqwer
-cfvfvbndvv
+##- It is my first **Project**.
+###- so i hope to do it right well as good
